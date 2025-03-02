@@ -1,0 +1,3 @@
+[submodule "Admin/DatingApp"]
+	path = Admin/DatingApp
+	url = https://github.com/Longhanhmid24/DatingApp.git

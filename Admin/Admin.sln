@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Admin", "Admin\Admin.csproj", "{09407228-4828-445B-8B21-9F9FD64C705B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminDB", "AdminDB\AdminDB.csproj", "{EECE0FA1-19D0-4A8C-9A90-2E16B677660F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09407228-4828-445B-8B21-9F9FD64C705B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09407228-4828-445B-8B21-9F9FD64C705B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09407228-4828-445B-8B21-9F9FD64C705B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09407228-4828-445B-8B21-9F9FD64C705B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EECE0FA1-19D0-4A8C-9A90-2E16B677660F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EECE0FA1-19D0-4A8C-9A90-2E16B677660F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EECE0FA1-19D0-4A8C-9A90-2E16B677660F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EECE0FA1-19D0-4A8C-9A90-2E16B677660F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
